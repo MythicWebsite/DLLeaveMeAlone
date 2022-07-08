@@ -5,7 +5,7 @@
 // @homepageURL  https://github.com/MythicWebsite/DLLeaveMeAlone
 // @version      1.0
 // @description  Tampermonkey script to ignore Duel Links Meta adblock prompt
-// @author       You
+// @author       Mythic
 // @match        https://www.duellinksmeta.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=duellinksmeta.com
 // @downloadURL  https://raw.githubusercontent.com/MythicWebsite/DLLeaveMeAlonemaster/code.user.js
