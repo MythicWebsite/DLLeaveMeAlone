@@ -4,7 +4,7 @@
 // @namespace    https://github.com/MythicWebsite
 // @homepageURL  https://github.com/MythicWebsite/DLLeaveMeAlone
 // @version      1.0
-// @description  try to take over the world!
+// @description  Tampermonkey script to ignore Duel Links Meta adblock prompt
 // @author       You
 // @match        https://www.duellinksmeta.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=duellinksmeta.com
